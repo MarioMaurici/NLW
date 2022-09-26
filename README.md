@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./.GitHub/preview.png)
+![preview](./.GitHub/preview3.png)
 
 >Rota Explorer
 
